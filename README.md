@@ -11,7 +11,7 @@ The goal is to satisfy CNF clauses and run heavy computations on a separate thre
 ---
 
 <p align="center">
-    <img alt="Solved screenshot of the Sudoku Solver" src="./assets/images/screenshot.jpg" width="350" />
+    <img alt="Sudoku Solver solving the grid" src="./assets/images/solver-solving.gif" width="350" />
 </p>
 
 ## 💡 Why This Project Matters
@@ -24,6 +24,15 @@ This project shows how a classic game can be solved using SAT solving, CNF encod
 - A practical example of algorithmic thinking inside modern JavaScript
 
 This project is both a learning resource and a demonstration of how powerful the browser can be as a computational platform.
+
+---
+
+🧰 ##Tech Stack
+- JavaScript (Vanilla)
+- HTML + CSS
+- Web Worker (multi-threading)
+- SAT Solver (custom)
+- CNF Encoding (Sudoku → clauses)
 
 ---
 
