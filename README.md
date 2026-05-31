@@ -1,7 +1,7 @@
 # Sudoku Solver 🧩
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/RadinMSH/sudoku-solver/blob/main/LICENSE)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![LICENSE](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/RadinMSH/sudoku-solver/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000?logo=github&logoColor=white)](https://RadinMSH.github.io/sudoku-solver)
 
@@ -10,7 +10,7 @@ The goal is to run heavy computations on a separate thread so the UI remains smo
 
 ---
 
-<img src="./assets/images/solved.jpg" width="300" />
+<img src="./assets/images/solved.jpg" width="350" style="display:block; margin:0 auto" />
 
 ## 📂 Project Structure
 - `index.html` → Main user interface
