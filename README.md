@@ -14,6 +14,19 @@ The goal is to run heavy computations on a separate thread so the UI remains smo
     <img src="./assets/images/screenshot.jpg" width="350" />
 </p>
 
+## 💡 Why This Project Matters
+Sudoku is more than a puzzle — it’s a structured constraint-satisfaction problem.
+This project shows how a classic game can be solved using SAT solving, CNF encoding, and Web Workers inside the browser.
+- Demonstrates how real problems can be modeled as logical formulas
+- Uses a SAT solver instead of handcrafted Sudoku logic
+- Runs heavy computation in a Web Worker to keep the UI responsive
+- Shows clean separation between UI, CNF generation, and solving logic
+- A practical example of algorithmic thinking inside modern JavaScript
+
+This project is both a learning resource and a demonstration of how powerful the browser can be as a computational platform.
+
+---
+
 ## 📂 Project Structure
 - `index.html` → Main user interface
 - `src/sudoku.js` → Builds the Sudoku grid and handles events
