@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000?logo=github&logoColor=white)](https://RadinMSH.github.io/sudoku-solver)
 
 A web-based project to solve Sudoku puzzles using a **SAT Solver** and **Web Worker**.  
-The goal is to run heavy computations on a separate thread so the UI remains smooth and responsive.
+The goal is to satisfy CNF clauses and run heavy computations on a separate thread so the UI remains smooth and responsive.
 
 ---
 
