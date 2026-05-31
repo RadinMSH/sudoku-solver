@@ -27,7 +27,7 @@ This project is both a learning resource and a demonstration of how powerful the
 
 ---
 
-🧰 ##Tech Stack
+## 🧰 Tech Stack
 - JavaScript (Vanilla)
 - HTML + CSS
 - Web Worker (multi-threading)
