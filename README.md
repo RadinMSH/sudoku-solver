@@ -11,7 +11,7 @@ The goal is to run heavy computations on a separate thread so the UI remains smo
 ---
 
 <p align="center">
-    <img src="./assets/images/solved.jpg" width="350" />
+    <img src="./assets/images/screenshot.jpg" width="350" />
 </p>
 
 ## 📂 Project Structure
