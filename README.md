@@ -1,9 +1,16 @@
 # Sudoku Solver 🧩
 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/RadinMSH/sudoku-solver/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?logo=github&logoColor=white)](https://RadinMSH.github.io/sudoku-solver)
+
 A web-based project to solve Sudoku puzzles using a **SAT Solver** and **Web Worker**.  
 The goal is to run heavy computations on a separate thread so the UI remains smooth and responsive.
 
 ---
+
+<img src="./assets/images/solved.jpg" width="300" />
 
 ## 📂 Project Structure
 - `index.html` → Main user interface
