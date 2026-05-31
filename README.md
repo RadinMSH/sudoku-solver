@@ -2,7 +2,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![LICENSE](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/RadinMSH/sudoku-solver/blob/main/LICENSE)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/RadinMSH/sudoku-solver/tree/main)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000?logo=github&logoColor=white)](https://RadinMSH.github.io/sudoku-solver)
 
 A web-based project to solve Sudoku puzzles using a **SAT Solver** and **Web Worker**.  
