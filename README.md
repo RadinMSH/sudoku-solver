@@ -10,7 +10,9 @@ The goal is to run heavy computations on a separate thread so the UI remains smo
 
 ---
 
-<img src="./assets/images/solved.jpg" width="350" style="display:block; margin:0 auto" />
+<p align="center">
+    <img src="./assets/images/solved.jpg" width="350" />
+</p>
 
 ## 📂 Project Structure
 - `index.html` → Main user interface
