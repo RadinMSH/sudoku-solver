@@ -35,6 +35,13 @@ This project is both a learning resource and a demonstration of how powerful the
 
 ---
 
+## 🛠 Requirements
+- Modern browser with ES Modules and Web Worker support
+- Simple local or hosting server
+- No external libraries (Vanilla JS only)
+
+---
+
 ## 🚀 How to Run
 1. Launch a simple local server (e.g., `python -m http.server` or `php -S localhost:[port]`).  
    > Reason: Web Workers and ES Modules require proper MIME types.
@@ -52,13 +59,6 @@ This project is both a learning resource and a demonstration of how powerful the
 - Status messages (Solved ✅ / Invalid ❌)
 - Alerts when the project is not running on a server or JavaScript is not supported.
 - Live UI with animations and enhanced text selection.
-
----
-
-## 🛠 Requirements
-- Modern browser with ES Modules and Web Worker support
-- Simple local or hosting server
-- No external libraries (Vanilla JS only)
 
 ---
 
