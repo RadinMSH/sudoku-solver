@@ -11,7 +11,7 @@ The goal is to satisfy CNF clauses and run heavy computations on a separate thre
 ---
 
 <p align="center">
-    <img src="./assets/images/screenshot.jpg" width="350" />
+    <img alt="Solved screenshot of the Sudoku Solver" src="./assets/images/screenshot.jpg" width="350" />
 </p>
 
 ## 💡 Why This Project Matters
