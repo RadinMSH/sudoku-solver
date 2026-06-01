@@ -38,8 +38,12 @@ This project is both a learning resource and a demonstration of how powerful the
 
 ## 📂 Project Structure
 - `index.html` → Main user interface
+- `assets/styles/fonts.css` → Loads text fonts
+- `assets/styles/main.css` → Webpage styles and designation
 - `src/sudoku.js` → Builds the Sudoku grid and handles events
 - `src/solver-worker.js` → Runs the solver in a Web Worker
+- `src/solver/cnf.js` → Translates Sudoku constraints into clauses
+- `src/solver/results-recorder.js` → Stores the Sudoku cells status
 - `src/solver/sat-solver.js` → SAT Solver algorithm for Sudoku
 
 ---
